@@ -1,6 +1,6 @@
 # Anomaly_detection
 
-An outlier detection toolkit for based on Interquartile Range also known (IQR) and Z-scores.
+An outlier detection toolkit for based on Interquartile Range (IQR) and Z-scores.
 
 ## Data Set Information
 
