@@ -27,9 +27,10 @@ Source: https://archive.ics.uci.edu/ml/datasets/Air+Quality
 
 ## Outlier detection
 Two methods are provided, whether to compute a statistic on the whole timeseries (i.e. static method) or to compute a statistic on a defined window (i.e. dynamic method)
- **A static method :**
+
+ **Static Method :**
 
 ![image](https://user-images.githubusercontent.com/38179853/125199276-5d4b8b80-e25d-11eb-8dae-b0b2e0439874.png)
 
-**A dynamic method :**
+**Dynamic Method :**
 ![image](https://user-images.githubusercontent.com/38179853/125199304-84a25880-e25d-11eb-9b56-55a6df920bd5.png)
